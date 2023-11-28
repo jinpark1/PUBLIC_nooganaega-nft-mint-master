@@ -34,9 +34,12 @@ To set up the project locally, follow these steps:
 git clone https://github.com/jinpark1/IDEN-IT_nooganaega-nft-mint-master
 cd IDEN-IT_nooganaega-nft-mint-master
 npm install
+```
 
 ### Running the Project
+```bash
 npm run dev
+```
 
 ## Challenges and Learning
 One of the significant challenges was generating 9001 unique arts, creating Smart Contract, integrating them with IPFS, and incorporating them into the DApp. This process required careful consideration of various security aspects and ensuring a seamless user experience.
