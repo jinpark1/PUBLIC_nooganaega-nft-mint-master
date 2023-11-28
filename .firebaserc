@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "nooganaega-mint",
+    "mint": "nooganaega-mint",
+    "nooganaega": "nooganaega-e5a3e"
+  },
+  "targets": {},
+  "etags": {}
+}

@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "nooganaeganft",
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
