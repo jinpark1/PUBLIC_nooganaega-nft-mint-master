@@ -30,8 +30,8 @@ To set up the project locally, follow these steps:
 - MetaMask (or any other Web3 wallet)
 
 ### Installation
-1. git clone https://github.com/jinpark1/IDEN-IT_nooganaega-nft-mint-master
-2. cd IDEN-IT_nooganaega-nft-mint-master
+1. git clone 
+2. cd into directory
 3. npm install
 
 ### Running the Project
